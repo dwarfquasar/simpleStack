@@ -1,4 +1,5 @@
 /* Owen Danke
+2/3/2023
 implementation of stack using linked list theory
 
 member functions:
