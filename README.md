@@ -1,5 +1,5 @@
 # simpleStack
-My implementation of a stack for ints. I plan to make this work on other types of data at some point.
+My implementation of a stack for integers, it is used in my rpn calculator.
 
 The only setup need is to create a stack node,
 ```
